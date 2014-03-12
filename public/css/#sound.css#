@@ -1,0 +1,21 @@
+
+.box {
+    height:100px;
+    width:100px;
+}
+#blue {
+    background-color:blue;
+    
+}
+#red {
+    background-color:red;
+}
+#green {
+    background-color:green;
+}
+.header {
+    width:99%;
+    position:fixed;
+    height:75px;
+    background-color:#80B2FF;
+}
